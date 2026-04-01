@@ -7,7 +7,7 @@
 
 - 📊 Passionnée par la data, l'analyse et l'architecture des systèmes d'information
 - 🏆 Trophée Ex Machina 2026 — simulation de cyberattaque (2ème édition)
-- 🌍 Profil international : expériences en France, Espagne et au Portugal
+- 🌍 Profil international : expériences en France, et en Espagne 
 - 🎓 Licence Économie Gestion & Droit mention Bien — UPEC
 
 ## Compétences techniques
