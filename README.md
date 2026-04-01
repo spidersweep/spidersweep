@@ -1,7 +1,6 @@
 # Bonjour, je suis Lara 👋
 
-Étudiante en Master Big Data, Analyse et Business Intelligence  
-à l'Université Sorbonne Paris Nord (2025–2026).
+Étudiante en Master Big Data, Analyse et Business Intelligence à l'Université Sorbonne Paris Nord (2025–2026).
 
 ## Formation
 
