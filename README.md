@@ -1,28 +1,30 @@
-# Hi, I'm Lara 👋
+# Bonjour, je suis Lara 👋
+Étudiante en Master Big Data, Analyse et Business Intelligence à l'Université Sorbonne Paris Nord.
 
-Master's student in Big Data, Analytics and Business Intelligence  
-at Université Sorbonne Paris Nord.
+## À propos de moi
+- 📊 Passionnée par la data, l'analyse et l'architecture des systèmes d'information
+- 🏆 Trophée Ex Machina 2026 — simulation de cyberattaque (2ème édition)
+- 🌍 Profil international
 
-## About me
+## Formation
+- 🎓 Master Big Data, Analyse et Business Intelligence à l'Université Sorbonne Paris Nord
+- 🎓 Summer Program en Gestion Internationale à Universidad Castilla La Mancha
+- 🎓 Licence Économie Gestion & Droit mention Bien — UPEC
+- 🎓 Baccalaurat Général mention Bien
 
-- 📊 Passionate about data, analytics and information system architecture
-- 🏆 Ex Machina Trophy 2026 — cyberattack simulation (2nd edition)
-- 🌍 International profile: experiences in France and Spain
-- 🎓 Bachelor's in Economics, Management & Law (Honours) — UPEC
-
-## Technical skills
-
-- **Languages** : Python · SQL · R · MySQL
+## Compétences techniques
+- **Langages** : Python · SQL · R · MySQL
 - **Cloud & Big Data** : Google BigQuery · Docker · Hadoop
-- **Tools** : GitHub · Microsoft Office · data visualisation tools
-- **Certifications** : Google Data Analytics Certificate (in progress) · EF SET C1
+- **Outils** : GitHub · Pack Office · outils de data visualisation (Kibana etc)
+- **Certifications** : Google Data Analytics Certificate (en cours) · EF SET C1 · SST
 
-## Languages
+## Langues
+🇫🇷 Français (natif) · 🇵🇹 Portugais (C2) · 🇬🇧 Anglais (C1) · 🇪🇸 Espagnol (B1)
 
-🇫🇷 French (native) · 🇵🇹 Portuguese (C2) · 🇬🇧 English (C1) · 🇪🇸 Spanish (B1)
+## Loisirs
+Jiu-Jitsu Brésilien · Salsa Cubaine · Photographie
 
-## Contact
-
+## Me contacter
 - 📧 Laragrilo@icloud.com
 - 💼 [LinkedIn](https://linkedin.com/in/Lagrilo)
 
