@@ -2,15 +2,15 @@
 Étudiante en Master Big Data, Analyse et Business Intelligence à l'Université Sorbonne Paris Nord.
 
 ## À propos de moi
-- 📊 Passionnée par la data, l'analyse et l'architecture des systèmes d'information
-- 🏆 Trophée Ex Machina 2026 — simulation de cyberattaque (2ème édition)
-- 🌍 Profil international
+- Passionnée par la data, l'analyse et l'architecture des systèmes d'information
+- Trophée Ex Machina 2026 — simulation de cyberattaque (2ème édition)
+- Profil international
 
 ## Formation
-- 🎓 Master Big Data, Analyse et Business Intelligence à l'Université Sorbonne Paris Nord
-- 🎓 Summer Program en Gestion Internationale à Universidad Castilla La Mancha
-- 🎓 Licence Économie Gestion & Droit mention Bien — UPEC
-- 🎓 Baccalaurat Général mention Bien
+- Master Big Data, Analyse et Business Intelligence à l'Université Sorbonne Paris Nord
+- Summer Program en Gestion Internationale à Universidad Castilla La Mancha
+- Licence Économie Gestion & Droit mention Bien — UPEC
+- Baccalaurat Général mention Bien
 
 ## Compétences techniques
 - **Langages** : Python · SQL · R · MySQL
