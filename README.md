@@ -1,27 +1,27 @@
-# Bonjour, je suis Lara 👋
+# Hi, I'm Lara 👋
 
-Étudiante en Master Big Data, Analyse et Business Intelligence  
-à l'Université Sorbonne Paris Nord.
+Master's student in Big Data, Analytics and Business Intelligence  
+at Université Sorbonne Paris Nord.
 
-## À propos de moi
+## About me
 
-- 📊 Passionnée par la data, l'analyse et l'architecture des systèmes d'information
-- 🏆 Trophée Ex Machina 2026 — simulation de cyberattaque (2ème édition)
-- 🌍 Profil international : expériences en France, et en Espagne 
-- 🎓 Licence Économie Gestion & Droit mention Bien — UPEC
+- 📊 Passionate about data, analytics and information system architecture
+- 🏆 Ex Machina Trophy 2026 — cyberattack simulation (2nd edition)
+- 🌍 International profile: experiences in France and Spain
+- 🎓 Bachelor's in Economics, Management & Law (Honours) — UPEC
 
-## Compétences techniques
+## Technical skills
 
-- **Langages** : Python · SQL · R · MySQL
+- **Languages** : Python · SQL · R · MySQL
 - **Cloud & Big Data** : Google BigQuery · Docker · Hadoop
-- **Outils** : GitHub · Pack Office · outils de data visualisation
-- **Certifications** : Google Data Analytics Certificate (en cours) · EF SET C1
+- **Tools** : GitHub · Microsoft Office · data visualisation tools
+- **Certifications** : Google Data Analytics Certificate (in progress) · EF SET C1
 
-## Langues
+## Languages
 
-🇫🇷 Français (natif) · 🇵🇹 Portugais (C2) · 🇬🇧 Anglais (C1) · 🇪🇸 Espagnol (B1)
+🇫🇷 French (native) · 🇵🇹 Portuguese (C2) · 🇬🇧 English (C1) · 🇪🇸 Spanish (B1)
 
-## Me contacter
+## Contact
 
 - 📧 Laragrilo@icloud.com
 - 💼 [LinkedIn](https://linkedin.com/in/Lagrilo)
