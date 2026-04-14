@@ -16,9 +16,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:Laragrilo@icloud.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
-
 <br/>
-
 <p align="center">
   <a href="https://github.com/spidersweep?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/spidersweep?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
@@ -26,11 +24,8 @@
   <img alt="views" title="GitHub Profile Views" src="https://komarev.com/ghpvc/?username=spidersweep&style=for-the-badge&color=236ad3&label=PROFILE+VIEWS"/>
 </a>
 </p>
-
 <br/>
-
-  <h2>🛠️ My Tech Stack</h2>
-
+  <h2> My Tech Stack</h2>
   <h3>👨‍💻 Programming Languages</h3>
   <p>
     <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
@@ -69,33 +64,23 @@
   </p>
 </details>
 
-<details>
-  <summary><h2>🎓 Formation & Expériences</h2></summary>
+<h2>🎓 Education </h2>
   <ul>
-    <li>🎓 <b>Master 1 Big Data, Analyse & Business Intelligence</b> — Sorbonne Paris Nord (2025–2026)</li>
-    <li>🌍 <b>Summer Program — Gestion Commerciale Internationale</b> — Universidad de Castilla-La Mancha, Espagne (Juil. 2025)</li>
-    <li>📘 <b>Licence Économie Gestion & Droit, mention Bien</b> — UPEC (2022–2025)</li>
-    <li>🏛️ <b>Front Office Consulaire</b> — Consulat Général du Portugal à Paris</li>
-    <li>🎪 <b>Chargée de Missions Événementielles</b> — Penelope Event</li>
-    <li>🏅 <b>Agent de Sécurité</b> — JO Paris 2024, Village Olympique</li>
+    <li>🎓 <b>Master's degree in Data Analytics/ Data science </b> at Sorbonne Paris Nord (2025–2027)</li>
+    <li>🌍 <b>Summer Program — International marketing </b> at  Universidad de Castilla-La Mancha, Espagne (Juil. 2025)</li>
+    <li>📘 <b>Bachelor's degree in Economics, Mangement and Law </b> at UPEC (2022–2025)</li>
   </ul>
-</details>
 
-<details>
-  <summary><h2>🌍 Langues & Intérêts</h2></summary>
+
+  <h2>🌍 Languages and Hobbies </h2>
   <ul>
     <li>🗣️ <b>Langues</b> : Français (natif) · Portugais (C2) · Anglais (C1) · Espagnol (B1)</li>
     <li>⚡ <b>Centres d'intérêt</b> : Jiu-Jitsu Brésilien 🥋 · Salsa Cubaine 💃 · Photographie 📷</li>
   </ul>
-</details>
 
 <details open> 
-  <summary><h2>📊 Github Stats and Activity</h2></summary>
-
+  <h2>📊 Github Stats and Activity</h2>
   <p align="center">
-    <a href="https://github.com/spidersweep?tab=repositories">
-      <img src="https://github-readme-stats.vercel.app/api?username=spidersweep&theme=gotham&show_icons=true&count_private=true&hide_border=true" width="48%" alt="spidersweep's github-readme-stats"/>
-    </a>
     <a href="https://github.com/spidersweep?tab=stars">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=spidersweep&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="spidersweep's github-readme-streak-stats"/>
     </a>
