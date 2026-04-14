@@ -69,10 +69,11 @@
 
 <h2>🏆 Certifications </h2>
     <img alt="Google Data Analytics Certificate" src="https://img.shields.io/badge/Google_Data_Analytics_Professional_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" style="vertical-align: middle;">
+    <img alt="EF SET English Certificate C1" src="https://img.shields.io/badge/EF_SET_English_Certificate_C1-5272B4?style=for-the-badge&logo=language&logoColor=white" style="vertical-align: middle;">
 
   <h2>Languages and Hobbies </h2>
   <ul>
-    <li><b>Langages</b> : 🇫🇷 French (natif) · 🇵🇹 Portuguese (C2) · 🇬🇧 English (C1) · 🇪🇸 Spanish (B1)</li>
+    <li><b>Langages</b> : 🇫🇷 French (native) · 🇵🇹 Portuguese (C2) · 🇬🇧 English (C1) · 🇪🇸 Spanish (B1)</li>
     <li><b>Hobbies</b> : Bazilian Jiu-Jitsu 🥋 · Dance 💃 · Photography 📷</li>
   </ul>
 
