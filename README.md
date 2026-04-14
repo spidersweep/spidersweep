@@ -1,5 +1,5 @@
 
-<h2 align="center"> Lara GRILO </h2>
+<h1 align="center"> Lara GRILO </h1>
 <h3 align="center">A Data Enthusiast passionate about Machine Learning & Big Data 📊</h3>
 <h4 align="center"> 🎓 Master 1 Big Data, Analyse & Business Intelligence @ Sorbonne Paris Nord </h4>
 
@@ -22,14 +22,14 @@
 <p align="center">
   <a href="https://github.com/spidersweep?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/spidersweep?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://visitcount.itsvg.in">
-    <img alt="views" title="GitHub profile views" src="https://visitcount.itsvg.in/api?id=spidersweep&icon=0&color=0"/></a>
+ <a href="https://github.com/spidersweep">
+  <img alt="views" title="GitHub Profile Views" src="https://komarev.com/ghpvc/?username=spidersweep&style=for-the-badge&color=236ad3&label=PROFILE+VIEWS"/>
+</a>
 </p>
 
 <br/>
 
-<details open> 
-  <summary><h2>🛠️ My Favorite Tools & Tech Stack</h2></summary>
+  <h2>🛠️ My Tech Stack</h2>
 
   <h3>👨‍💻 Programming Languages</h3>
   <p>
