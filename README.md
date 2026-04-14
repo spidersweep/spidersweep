@@ -1,6 +1,17 @@
 <h1 align="center"> Lara GRILO </h1>
-<h3 align="center">A Data Enthusiast passionate about Machine Learning & Big Data 📊</h3>
-<h4 align="center"> 🎓 Master 1 Big Data, Analyse & Business Intelligence @ Sorbonne Paris Nord </h4>
+<br>
+<p align="center">
+  <a href="https://linkedin.com/in/lagrilo"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:Laragrilo@icloud.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/spidersweep?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/spidersweep?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+ <a href="https://github.com/spidersweep">
+  <img alt="views" title="GitHub Profile Views" src="https://komarev.com/ghpvc/?username=spidersweep&style=for-the-badge&color=236ad3&label=PROFILE+VIEWS"/>
+</a>
+</p>
+<br/>
+<h3 align="center">A Data Enthusiast passionate about Tech & Big Data 📊</h3>
+<h4 align="center"> Student in Big Data, Analysis & Business Intelligence @ Sorbonne Paris Nord </h4>
 
 <p align="center">
   <a href="https://github.com/spidersweep/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Big+Data+Analytics;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
@@ -9,21 +20,6 @@
   <a href="https://github.com/spidersweep"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=spidersweep&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="spidersweep" /></picture></a>
   <a href="https://github.com/spidersweep"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=spidersweep&hide_title=false&layout=compact&theme=gotham&count_private=true" /></picture></a>
 </p>
-<br>
-<p align="center">
-  <a href="https://linkedin.com/in/lagrilo"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:Laragrilo@icloud.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
-<br/>
-<p align="center">
-  <a href="https://github.com/spidersweep?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/spidersweep?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
- <a href="https://github.com/spidersweep">
-  <img alt="views" title="GitHub Profile Views" src="https://komarev.com/ghpvc/?username=spidersweep&style=for-the-badge&color=236ad3&label=PROFILE+VIEWS"/>
-</a>
-</p>
-<br/>
   <h2> My Tech Stack</h2>
   <h3>👨‍💻 Programming Languages</h3>
   <p>
@@ -61,7 +57,7 @@
     <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
     <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
   </p>
-</details>
+
 
 <h2>🎓 Education </h2>
   <ul>
@@ -77,7 +73,6 @@
     <li><b>Hobbies</b> : Bazilian Jiu-Jitsu 🥋 · Dance 💃 · Photo 📷</li>
   </ul>
 
-<details open> 
   <h2>📊 Github Stats and Activity</h2>
   <p align="center">
     <a href="https://github.com/spidersweep?tab=stars">
@@ -85,8 +80,6 @@
     </a>
   </p>
 
- 
-</details>
 
 ### My favourite Quote
 <p align="center">
