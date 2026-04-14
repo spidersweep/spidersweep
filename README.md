@@ -1,3 +1,123 @@
+
+<h2 align="center"> Lara GRILO </h2>
+<h3 align="center">A Data Enthusiast passionate about Machine Learning & Big Data 📊</h3>
+<h4 align="center"> 🎓 Master 1 Big Data, Analyse & Business Intelligence @ Sorbonne Paris Nord </h4>
+
+<p align="center">
+  <a href="https://github.com/spidersweep/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Big+Data+Analytics;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/spidersweep"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=spidersweep&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="spidersweep" /></picture></a>
+  <a href="https://github.com/spidersweep"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=spidersweep&hide_title=false&layout=compact&theme=gotham&count_private=true" /></picture></a>
+</p>
+<br>
+<p align="center">
+  <a href="https://linkedin.com/in/lagrilo"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="mailto:Laragrilo@icloud.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/spidersweep?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/spidersweep?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://visitcount.itsvg.in">
+    <img alt="views" title="GitHub profile views" src="https://visitcount.itsvg.in/api?id=spidersweep&icon=0&color=0"/></a>
+</p>
+
+<br/>
+
+<details open> 
+  <summary><h2>🛠️ My Favorite Tools & Tech Stack</h2></summary>
+
+  <h3>👨‍💻 Programming Languages</h3>
+  <p>
+    <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+    <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white">
+    <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white&style=for-the-badge">
+    <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
+  </p>
+
+  <h3>🧠 Data Science & Machine Learning</h3>
+  <p>
+    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
+    <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
+    <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+    <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+    <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
+    <img alt="Plotly" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white">
+    <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white">
+  </p>
+
+  <h3>🗄️ Big Data, Cloud & Databases</h3>
+  <p>
+    <img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black">
+    <img alt="Apache Hadoop" src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black">
+    <img alt="Apache Kafka" src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka">
+    <img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+    <img alt="ElasticSearch" src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch">
+    <img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
+  </p>
+
+  <h3>💻 Tools & Visualization</h3>
+  <p>
+    <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+    <img alt="Power Bi" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+    <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+    <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
+  </p>
+</details>
+
+<details>
+  <summary><h2>🎓 Formation & Expériences</h2></summary>
+  <ul>
+    <li>🎓 <b>Master 1 Big Data, Analyse & Business Intelligence</b> — Sorbonne Paris Nord (2025–2026)</li>
+    <li>🌍 <b>Summer Program — Gestion Commerciale Internationale</b> — Universidad de Castilla-La Mancha, Espagne (Juil. 2025)</li>
+    <li>📘 <b>Licence Économie Gestion & Droit, mention Bien</b> — UPEC (2022–2025)</li>
+    <li>🏛️ <b>Front Office Consulaire</b> — Consulat Général du Portugal à Paris</li>
+    <li>🎪 <b>Chargée de Missions Événementielles</b> — Penelope Event</li>
+    <li>🏅 <b>Agent de Sécurité</b> — JO Paris 2024, Village Olympique</li>
+  </ul>
+</details>
+
+<details>
+  <summary><h2>🌍 Langues & Intérêts</h2></summary>
+  <ul>
+    <li>🗣️ <b>Langues</b> : Français (natif) · Portugais (C2) · Anglais (C1) · Espagnol (B1)</li>
+    <li>⚡ <b>Centres d'intérêt</b> : Jiu-Jitsu Brésilien 🥋 · Salsa Cubaine 💃 · Photographie 📷</li>
+  </ul>
+</details>
+
+<details open> 
+  <summary><h2>📊 Github Stats and Activity</h2></summary>
+
+  <p align="center">
+    <a href="https://github.com/spidersweep?tab=repositories">
+      <img src="https://github-readme-stats.vercel.app/api?username=spidersweep&theme=gotham&show_icons=true&count_private=true&hide_border=true" width="48%" alt="spidersweep's github-readme-stats"/>
+    </a>
+    <a href="https://github.com/spidersweep?tab=stars">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=spidersweep&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="spidersweep's github-readme-streak-stats"/>
+    </a>
+  </p>
+
+  <p align="center">
+    <a href="https://github.com/spidersweep">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spidersweep&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="48%" alt="top langs"/>
+    </a>
+    <a href="https://github.com/spidersweep?tab=achievements">
+      <img src="https://github-profile-trophy.vercel.app/?username=spidersweep&theme=gotham&no-frame=true&column=3&row=2" width="48%" alt="trophies"/>
+    </a>
+  </p>
+</details>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gotham" alt="Random Dev Quote">
+</p>
+
+
+
+
 # 💫 About Me:
 🔭 I'm currently working on a ML translation pipeline as part of my Master's in Big Data & Business Intelligence at Sorbonne Paris Nord<br><br>🤝 I'm looking to collaborate on Data analysis, ML pipelines and open-source data projects<br><br>🤝 I'm looking for help with Advanced machine learning and deep learning<br><br>🌱 I'm currently learning PySpark, data pipelines, machine learning — Google Data Analytics certified ✅<br><br>💬 Ask me about Python, SQL, data analysis, Google BigQuery<br><br>⚡ Fun fact I competed in a cyberattack simulation (Trophée Ex Machina 2026 🏆) and practice Brazilian Jiu-Jitsu 🥋
 
