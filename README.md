@@ -16,8 +16,7 @@
     <li>🔭 I’m currently working on a Python project analyzing Premier League data to verify the "home advantage", as part of my Master's </li>
 <li>🌱 I’m currently learning PySpark, Data Pipelines </li>
 <li>👯 I’m looking to collaborate on Data Analysis, and open-source data projects </li>
-<li>🤝 I’m looking for help with Advanced Machine Learning and Deep Learning </li>
-<li>💬 Ask me about Python, SQL, Data Analysis, and Google BigQuery </li>
+<li>🤝 I’m looking for help with Advanced Machine Learning </li>
 
 <h2> My Tech Stack</h2>
   <h3>👨‍💻 Programming Languages</h3>
@@ -67,6 +66,9 @@
     <li><b>Summer Program — International marketing </b> at  Universidad de Castilla-La Mancha, Espagne (Juil. 2025)</li>
     <li><b>Bachelor's degree in Economics, Mangement and Law </b> at UPEC (2022–2025)</li>
   </ul>
+
+<h2>🏆 Certifications </h2>
+    <img alt="Google Data Analytics Certificate" src="https://img.shields.io/badge/Google_Data_Analytics_Professional_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" style="vertical-align: middle;">
 
   <h2>Languages and Hobbies </h2>
   <ul>
