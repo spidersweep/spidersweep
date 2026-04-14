@@ -1,4 +1,3 @@
-
 <h1 align="center"> Lara GRILO </h1>
 <h3 align="center">A Data Enthusiast passionate about Machine Learning & Big Data 📊</h3>
 <h4 align="center"> 🎓 Master 1 Big Data, Analyse & Business Intelligence @ Sorbonne Paris Nord </h4>
@@ -66,16 +65,16 @@
 
 <h2>🎓 Education </h2>
   <ul>
-    <li>🎓 <b>Master's degree in Data Analytics/ Data science </b> at Sorbonne Paris Nord (2025–2027)</li>
-    <li>🌍 <b>Summer Program — International marketing </b> at  Universidad de Castilla-La Mancha, Espagne (Juil. 2025)</li>
-    <li>📘 <b>Bachelor's degree in Economics, Mangement and Law </b> at UPEC (2022–2025)</li>
+    <li><b>Master's degree in Data Analytics/ Data science </b> at Sorbonne Paris Nord (2025–2027)</li>
+    <li><b>Summer Program — International marketing </b> at  Universidad de Castilla-La Mancha, Espagne (Juil. 2025)</li>
+    <li><b>Bachelor's degree in Economics, Mangement and Law </b> at UPEC (2022–2025)</li>
   </ul>
 
 
-  <h2>🌍 Languages and Hobbies </h2>
+  <h2>Languages and Hobbies </h2>
   <ul>
-    <li>🗣️ <b>Langues</b> : Français (natif) · Portugais (C2) · Anglais (C1) · Espagnol (B1)</li>
-    <li>⚡ <b>Centres d'intérêt</b> : Jiu-Jitsu Brésilien 🥋 · Salsa Cubaine 💃 · Photographie 📷</li>
+    <li><b>Langages</b> : French (native) · Portuguese (C2) · English (C1) · Spanish (B1)</li>
+    <li><b>Hobbies</b> : Bazilian Jiu-Jitsu 🥋 · Dance 💃 · Photo 📷</li>
   </ul>
 
 <details open> 
@@ -86,18 +85,12 @@
     </a>
   </p>
 
-  <p align="center">
-    <a href="https://github.com/spidersweep">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spidersweep&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="48%" alt="top langs"/>
-    </a>
-    <a href="https://github.com/spidersweep?tab=achievements">
-      <img src="https://github-profile-trophy.vercel.app/?username=spidersweep&theme=gotham&no-frame=true&column=3&row=2" width="48%" alt="trophies"/>
-    </a>
-  </p>
+ 
 </details>
 
+### My favourite Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gotham" alt="Random Dev Quote">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=A%20goal%20is%20a%20dream%20with%20a%20deadline.&author=Napoleon%20Hill" alt="Napoleon Hill Quote">
 </p>
 
 
