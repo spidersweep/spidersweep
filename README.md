@@ -1,4 +1,4 @@
-<h1 align="center"> Lara CUNHA GRILO </h1>
+<h1 align="center"> Lara GRILO </h1>
 <h3 align="center">A Data Enthusiast passionate about Tech & Big Data 📊</h3>
 <h4 align="center"> Student in Big Data, Analysis & Business Intelligence @ Sorbonne Paris Nord </h4>
 
